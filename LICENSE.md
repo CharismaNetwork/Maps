@@ -1,6 +1,6 @@
 ### CharismaNetwork Minecraft Map License
 
-'publicly' specifies any instance where a map within this repository is featured in a video posted own the internet unless in CharismaNetwork servers or within projects the map is featured, such as custom Minecraft Servers NOT hosted by CharismaNetwork, etc.
+'publicly' specifies any instance where a map within this repository is featured in a video posted on the internet unless in CharismaNetwork servers or within projects the map is featured, such as custom Minecraft Servers NOT hosted by CharismaNetwork, etc.
 
 By publicly using any Minecraft maps ('Maps') from this repository, you agree to the following terms:
 
