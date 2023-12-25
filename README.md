@@ -1,2 +1,2 @@
-# Maps
-All world maps created and user by CharismaNetwork
+### CharismaNetwork Maps
+All world maps created and used by CharismaNetwork
